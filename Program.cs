@@ -17,6 +17,8 @@ class Program
         //Ex11_SomaParadaZero.Executar();
         //Ex12_ContadorCaracteres.Executar();
         //Ex13_VerificadorSenha.Executar();
-        Ex14_MaiorElemento.Executar();
+        //Ex14_MaiorElemento.Executar();
+        Ex15_MediaNotas.Executar();
+
     }
 }
