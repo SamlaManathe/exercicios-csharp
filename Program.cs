@@ -12,6 +12,7 @@ class Program
         //Ex06_ContagemCrescente.Executar();
         //Ex07_ContagemRegressiva.Executar();
         //Ex08_Tabuada.Executar();
-        Ex09_SomaPares.Executar();
+        //Ex09_SomaPares.Executar();
+        Ex10_LoginSimples.Executar();
     }
 }
