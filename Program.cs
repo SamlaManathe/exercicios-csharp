@@ -20,7 +20,8 @@ class Program
         //Ex14_MaiorElemento.Executar();
         //Ex15_MediaNotas.Executar();
         //Ex16_ContagemPares.Executar();
-        Ex17_OrdemInversa.Executar();
+        //Ex17_OrdemInversa.Executar();
+        Ex18_JogoSenha.Executar();
 
 
     }
