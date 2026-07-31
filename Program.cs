@@ -9,6 +9,7 @@ class Program
         //Ex03_AreaRetangulo.Executar();
         //Ex04_ConversorMoedas.Executar();
         //Ex05_CalculadoraSimples.Executar();
-        Ex06_ContagemCrescente.Executar();
+        //Ex06_ContagemCrescente.Executar();
+        Ex07_ContagemRegressiva.Executar();
     }
 }
