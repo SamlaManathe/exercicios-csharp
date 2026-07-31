@@ -10,6 +10,7 @@ class Program
         //Ex04_ConversorMoedas.Executar();
         //Ex05_CalculadoraSimples.Executar();
         //Ex06_ContagemCrescente.Executar();
-        Ex07_ContagemRegressiva.Executar();
+        //Ex07_ContagemRegressiva.Executar();
+        Ex08_Tabuada.Executar();
     }
 }
