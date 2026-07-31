@@ -16,6 +16,7 @@ class Program
         //Ex10_LoginSimples.Executar();
         //Ex11_SomaParadaZero.Executar();
         //Ex12_ContadorCaracteres.Executar();
-        Ex13_VerificadorSenha.Executar();
+        //Ex13_VerificadorSenha.Executar();
+        Ex14_MaiorElemento.Executar();
     }
 }
