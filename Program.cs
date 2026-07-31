@@ -21,8 +21,8 @@ class Program
         //Ex15_MediaNotas.Executar();
         //Ex16_ContagemPares.Executar();
         //Ex17_OrdemInversa.Executar();
-        Ex18_JogoSenha.Executar();
-
+        //Ex18_JogoSenha.Executar();
+        Ex19_CaixaEletronico.Executar();
 
     }
 }
