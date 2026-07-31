@@ -11,6 +11,7 @@ class Program
         //Ex05_CalculadoraSimples.Executar();
         //Ex06_ContagemCrescente.Executar();
         //Ex07_ContagemRegressiva.Executar();
-        Ex08_Tabuada.Executar();
+        //Ex08_Tabuada.Executar();
+        Ex09_SomaPares.Executar();
     }
 }
