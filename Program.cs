@@ -6,6 +6,7 @@ class Program
     {
         //Ex01_SomaNumeros.Executar();
         //Ex02_AntecessorSucessor.Executar();
-        Ex03_AreaRetangulo.Executar();
+        //Ex03_AreaRetangulo.Executar();
+        Ex04_ConversorMoedas.Executar();
     }
 }
