@@ -19,7 +19,9 @@ class Program
         //Ex13_VerificadorSenha.Executar();
         //Ex14_MaiorElemento.Executar();
         //Ex15_MediaNotas.Executar();
-        Ex16_ContagemPares.Executar();
+        //Ex16_ContagemPares.Executar();
+        Ex17_OrdemInversa.Executar();
+
 
     }
 }
