@@ -8,6 +8,7 @@ class Program
         //Ex02_AntecessorSucessor.Executar();
         //Ex03_AreaRetangulo.Executar();
         //Ex04_ConversorMoedas.Executar();
-        Ex05_CalculadoraSimples.Executar();
+        //Ex05_CalculadoraSimples.Executar();
+        Ex06_ContagemCrescente.Executar();
     }
 }
