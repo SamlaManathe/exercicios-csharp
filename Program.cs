@@ -14,6 +14,7 @@ class Program
         //Ex08_Tabuada.Executar();
         //Ex09_SomaPares.Executar();
         //Ex10_LoginSimples.Executar();
-        Ex11_SomaParadaZero.Executar();
+        //Ex11_SomaParadaZero.Executar();
+        Ex12_ContadorCaracteres.Executar();
     }
 }
