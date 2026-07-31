@@ -13,6 +13,7 @@ class Program
         //Ex07_ContagemRegressiva.Executar();
         //Ex08_Tabuada.Executar();
         //Ex09_SomaPares.Executar();
-        Ex10_LoginSimples.Executar();
+        //Ex10_LoginSimples.Executar();
+        Ex11_SomaParadaZero.Executar();
     }
 }
